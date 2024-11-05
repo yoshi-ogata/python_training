@@ -53,7 +53,7 @@ diff_height = abs(height1 - height2)
 
 if height1 > height2:
     print(f"{person1} is taller than {person2} by {diff_height}cm.")
-elif height1 = height2:
+elif height1 == height2:
     print(f"{person1} and {person2} are of same height")
 else:
     print(f"{person2} is taller than {person1} by {diff_height}cm.")    
